@@ -1,4 +1,7 @@
-## Index
+# DEEP LEARNING (Elective - IV) (2019 Pattern) (Semester - VII) (404185C)
+## Index Questions
+
+- [question paper](#question-paper)
 
 - [Q1, a Batch Normalization in Neural Networks](#q1-a-batch-normalization-in-neural-networks)
 - [Q1, b Architecture of Neural Networks](#q1-b-architecture-of-neural-networks)
@@ -24,6 +27,10 @@
 - [Q8, b Sentiment Analysis of Social Media Applications](#q8-b-sentiment-analysis-of-social-media-applications)
 - [Q8, b (extra) Sentiment Analysis of YouTube Application](#q8-b-extra-sentiment-analysis-of-youtube-application)
 
+
+## question paper
+[question paper image 1](https://github.com/pawar41/exam_sem7-ENDSEM/page_1.jpeg)
+[question paper image 1](https://github.com/pawar41/exam_sem7-ENDSEM/page_2.jpeg)
 
 ## Q1 a Batch Normalization in Neural Networks
 
