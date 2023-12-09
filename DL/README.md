@@ -30,8 +30,8 @@
 
 
 ## question paper
-![question paper image 1](https://github.com/pawar41/exam_sem7-ENDSEM/tree/main/page_1.png)
-![question paper image 1](https://github.com/pawar41/exam_sem7-ENDSEM/tree/main/page_2.png)
+![question paper image 1](https://live.staticflickr.com/65535/53385430593_d4d3b579fc_o.png)
+![question paper image 1](https://live.staticflickr.com/65535/53385430588_f08828c2f8_o.png)
 
 ## Q1 a Batch Normalization in Neural Networks
 
