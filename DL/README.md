@@ -28,9 +28,10 @@
 - [Q8, b (extra) Sentiment Analysis of YouTube Application](#q8-b-extra-sentiment-analysis-of-youtube-application)
 
 
+
 ## question paper
-[question paper image 1](https://github.com/pawar41/exam_sem7-ENDSEM/page_1.png)
-[question paper image 1](https://github.com/pawar41/exam_sem7-ENDSEM/page_2.png)
+![question paper image 1](https://github.com/pawar41/exam_sem7-ENDSEM/tree/main/page_1.png)
+![question paper image 1](https://github.com/pawar41/exam_sem7-ENDSEM/tree/main/page_2.png)
 
 ## Q1 a Batch Normalization in Neural Networks
 
